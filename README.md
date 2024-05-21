@@ -1,14 +1,14 @@
 # office-util
 a collection of office examples and utility projects
 
-**Contained projects**
-1. **PPT / ELF**
+
+## PPT / ELF
 
 The ELF project (addin + source-file) contains a collection of VBA Macros for powerpoint, 
 *  setting and displaying shadow-values as HEX,
 *  an examlpe of a language-controll panel,
 
-2. **PPT / ThemeSelector**
+## PPT / ThemeSelector
 
 module for creating and managing themes in PPT using shadow-based pattern-matching
 
